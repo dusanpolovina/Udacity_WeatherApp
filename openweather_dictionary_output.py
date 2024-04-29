@@ -1,0 +1,44 @@
+{
+    "coord":
+    {
+        "lon":-83.0302,"lat":42.5803
+        },
+    "weather":
+    [{
+        "id":804,
+    "main":"Clouds",
+    "description":"overcast clouds",
+    "icon":"04d"
+    }],
+    "base":"stations",
+    "main":
+    {
+        "temp":275.52,
+    "feels_like":271.7,
+    "temp_min":273.79,
+    "temp_max":277.56,
+    "pressure":1031,
+    "humidity":85
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":4.12,
+        "deg":360
+        },
+    "clouds":
+    {
+        "all":100
+        },
+    "dt":1670505287,
+    "sys":{
+        "type":2,
+        "id":2031301,
+        "country":"US",
+        "sunrise":1670503771,
+        "sunset":1670536734
+        },
+    "timezone":-18000,
+    "id":5011148,
+    "name":"Sterling Heights",
+    "cod":200
+    }
